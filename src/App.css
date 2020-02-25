@@ -2,9 +2,24 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.FormFilm {
+  width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.FormFilm h1 {
+  text-align: center;
+}
+
+.FormFilm .form-data {
+  margin: 20px 0;
+}
+
+.FormEmployee .form-data label {
+  display: inline-block;
+  width: 75px;
+  margin-right: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
